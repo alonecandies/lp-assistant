@@ -1,1 +1,1 @@
-# lp-assistant
+# LP Assistant
